@@ -216,9 +216,11 @@ mysql>
 
 Url shown
 
-![alt text](image.png)
+<img width="1326" height="408" alt="Screenshot 2025-12-25 105208" src="https://github.com/user-attachments/assets/fb49b288-8466-40bc-b5c4-951a1b3e4222" />
 
-![alt text](image-1.png)
+<img width="1276" height="389" alt="Screenshot 2025-12-25 105235" src="https://github.com/user-attachments/assets/70cca737-3d15-4369-8354-7423f466ff48" />
+
+
 
 💡 Key Concepts Demonstrated
 
