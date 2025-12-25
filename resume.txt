@@ -1,0 +1,4 @@
+Human Error Simulation Engine (Java)
+• Developed a Java-based simulation engine to model common human errors.
+• Implemented a lightweight HTTP server in core Java to expose functionality via a browser-based UI.
+• Demonstrated end-to-end flow from frontend interaction to backend logic execution.

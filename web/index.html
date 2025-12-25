@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Human Error Simulation</title>
+</head>
+<body>
+    <h2>Human Error Simulation Engine</h2>
+
+    <button onclick="runSimulation()">Simulate Error</button>
+
+    <pre id="output"></pre>
+
+    <script>
+        function runSimulation() {
+            fetch("http://localhost:8080/simulate")
+                .then(res => res.text())
+                .then(data => {
+                    document.getElementById("output").innerText = data;
+                });
+        }
+    </script>
+</body>
+</html>
